@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gravity_assignment/static/css/main.8239f2cf.css",
+    "main.js": "/gravity_assignment/static/js/main.8740e9fb.js",
+    "static/js/453.ac79db8d.chunk.js": "/gravity_assignment/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/gravity_assignment/index.html",
+    "main.8239f2cf.css.map": "/gravity_assignment/static/css/main.8239f2cf.css.map",
+    "main.8740e9fb.js.map": "/gravity_assignment/static/js/main.8740e9fb.js.map",
+    "453.ac79db8d.chunk.js.map": "/gravity_assignment/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8239f2cf.css",
+    "static/js/main.8740e9fb.js"
+  ]
+}
